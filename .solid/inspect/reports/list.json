@@ -8,11 +8,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 7
+          "transform": 8
         },
         {
           "name": "solid",
-          "transform": 15
+          "transform": 13
         }
       ],
       "virtual": false
@@ -23,11 +23,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 61
+          "transform": 59
         },
         {
           "name": "solid",
-          "transform": 17
+          "transform": 14
         }
       ],
       "virtual": false
@@ -38,7 +38,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 30
+          "transform": 28
         },
         {
           "name": "solid",
@@ -64,7 +64,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 60
+          "transform": 58
         }
       ],
       "virtual": false
@@ -75,7 +75,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 91
+          "transform": 86
         }
       ],
       "virtual": false
@@ -86,7 +86,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 84
+          "transform": 78
         }
       ],
       "virtual": false
@@ -97,15 +97,15 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 32
+          "transform": 35
         },
         {
           "name": "solid-start-file-system-router",
-          "transform": 1
+          "transform": 0
         },
         {
           "name": "vite:esbuild",
-          "transform": 48
+          "transform": 4
         }
       ],
       "virtual": false
@@ -116,11 +116,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 69
+          "transform": 67
         },
         {
           "name": "vite:esbuild",
-          "transform": 66
+          "transform": 72
         }
       ],
       "virtual": false
@@ -131,11 +131,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 70
+          "transform": 67
         },
         {
           "name": "vite:esbuild",
-          "transform": 79
+          "transform": 72
         }
       ],
       "virtual": false
@@ -146,11 +146,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 47
+          "transform": 34
         },
         {
           "name": "vite:esbuild",
-          "transform": 4
+          "transform": 1
         }
       ],
       "virtual": false
@@ -161,11 +161,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 45
+          "transform": 41
         },
         {
           "name": "solid",
-          "transform": 16
+          "transform": 15
         }
       ],
       "virtual": false
@@ -176,7 +176,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 115
+          "transform": 112
         },
         {
           "name": "solid",
@@ -206,11 +206,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 94
+          "transform": 93
         },
         {
           "name": "solid",
-          "transform": 16
+          "transform": 14
         }
       ],
       "virtual": false
@@ -221,7 +221,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 21
+          "transform": 9
         },
         {
           "name": "vite:esbuild",
@@ -236,11 +236,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 0
+          "transform": 1
         },
         {
           "name": "solid",
-          "transform": 10
+          "transform": 11
         },
         {
           "name": "vite:define",
@@ -248,7 +248,7 @@
         },
         {
           "name": "vite:import-glob",
-          "transform": 5
+          "transform": 4
         }
       ],
       "virtual": false
@@ -274,11 +274,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 14
+          "transform": 16
         },
         {
           "name": "vite:esbuild",
-          "transform": 9
+          "transform": 8
         },
         {
           "name": "vite:define",
@@ -293,11 +293,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 57
+          "transform": 34
         },
         {
           "name": "solid",
-          "transform": 6
+          "transform": 5
         }
       ],
       "virtual": false
@@ -308,7 +308,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 21
+          "transform": 7
         },
         {
           "name": "solid",
@@ -323,7 +323,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 62
+          "transform": 95
         },
         {
           "name": "solid",
@@ -338,7 +338,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 21
+          "transform": 32
         },
         {
           "name": "solid",
@@ -353,11 +353,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 23
+          "transform": 9
         },
         {
           "name": "solid",
-          "transform": 9
+          "transform": 8
         },
         {
           "name": "vite:define",
@@ -372,11 +372,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 33
+          "transform": 45
         },
         {
           "name": "solid",
-          "transform": 20
+          "transform": 17
         }
       ],
       "virtual": false
@@ -387,7 +387,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 23
+          "transform": 37
         },
         {
           "name": "solid",
@@ -406,7 +406,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 72
+          "transform": 34
         },
         {
           "name": "solid-start-file-system-router",
@@ -425,7 +425,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 96
+          "transform": 83
         },
         {
           "name": "solid-start-file-system-router",
@@ -448,7 +448,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 35
+          "transform": 45
         },
         {
           "name": "solid",
@@ -467,7 +467,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 32
+          "transform": 33
         },
         {
           "name": "solid",
@@ -482,11 +482,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 51
+          "transform": 54
         },
         {
           "name": "solid",
-          "transform": 6
+          "transform": 10
         },
         {
           "name": "vite:define",
@@ -501,11 +501,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 34
+          "transform": 19
         },
         {
           "name": "solid",
-          "transform": 2
+          "transform": 1
         }
       ],
       "virtual": false
@@ -516,7 +516,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 37
+          "transform": 22
         },
         {
           "name": "solid",
@@ -535,11 +535,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 60
+          "transform": 68
         },
         {
           "name": "solid",
-          "transform": 2
+          "transform": 3
         }
       ],
       "virtual": false
@@ -550,11 +550,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 69
+          "transform": 67
         },
         {
           "name": "vite:esbuild",
-          "transform": 79
+          "transform": 74
         }
       ],
       "virtual": false
@@ -565,11 +565,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 74
+          "transform": 67
         },
         {
           "name": "vite:esbuild",
-          "transform": 77
+          "transform": 76
         },
         {
           "name": "vite:define",
@@ -588,7 +588,7 @@
         },
         {
           "name": "vite:esbuild",
-          "transform": 120
+          "transform": 118
         },
         {
           "name": "vite:define",
@@ -603,7 +603,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 70
+          "transform": 68
         },
         {
           "name": "solid",
@@ -618,11 +618,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 120
+          "transform": 114
         },
         {
           "name": "vite:esbuild",
-          "transform": 42
+          "transform": 38
         }
       ],
       "virtual": false
@@ -633,11 +633,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 120
+          "transform": 113
         },
         {
           "name": "vite:esbuild",
-          "transform": 36
+          "transform": 16
         }
       ],
       "virtual": false
@@ -648,11 +648,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 120
+          "transform": 113
         },
         {
           "name": "vite:esbuild",
-          "transform": 37
+          "transform": 17
         }
       ],
       "virtual": false
@@ -663,11 +663,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 93
+          "transform": 113
         },
         {
           "name": "vite:esbuild",
-          "transform": 42
+          "transform": 37
         }
       ],
       "virtual": false
@@ -678,11 +678,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 37
+          "transform": 34
         },
         {
           "name": "vite:esbuild",
-          "transform": 10
+          "transform": 4
         }
       ],
       "virtual": false
@@ -693,11 +693,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 119
+          "transform": 114
         },
         {
           "name": "vite:esbuild",
-          "transform": 15
+          "transform": 36
         }
       ],
       "virtual": false
@@ -708,7 +708,7 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 120
+          "transform": 114
         },
         {
           "name": "vite:esbuild",
@@ -723,11 +723,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 37
+          "transform": 34
         },
         {
           "name": "vite:esbuild",
-          "transform": 10
+          "transform": 4
         }
       ],
       "virtual": false
@@ -753,15 +753,15 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 62
+          "transform": 94
         },
         {
           "name": "vite:css",
-          "transform": 233
+          "transform": 214
         },
         {
           "name": "vite:css-post",
-          "transform": 1
+          "transform": 0
         }
       ],
       "virtual": false
@@ -772,11 +772,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 63
+          "transform": 37
         },
         {
           "name": "solid",
-          "transform": 6
+          "transform": 4
         }
       ],
       "virtual": false
@@ -787,11 +787,11 @@
       "plugins": [
         {
           "name": "vite:load-fallback",
-          "transform": 68
+          "transform": 91
         },
         {
           "name": "solid-start-file-system-router",
-          "transform": 4
+          "transform": 6
         },
         {
           "name": "solid",
