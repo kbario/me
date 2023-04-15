@@ -7,7 +7,7 @@ const Home: VoidComponent = () => {
       <div>Hello 👋 My name is Kyle.</div>
       <div>I am a web developer.</div>
       <div>I made this in 5 minutes.</div>
-      <div>I hope you enjoy the fruits of my labour.</div>
+      <div>I hope you enjoy the fruits of my labour 😁</div>
     </main>
   );
 };
