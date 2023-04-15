@@ -1,0 +1,27 @@
+{
+  "/": [
+    {
+      "type": "script",
+      "href": "/assets/index-e8c47493.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/entry-client-96c9caf4.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client-a99bf303.css"
+    }
+  ],
+  "entry-client": [
+    {
+      "type": "script",
+      "href": "/assets/entry-client-96c9caf4.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client-a99bf303.css"
+    }
+  ],
+  "index.html": []
+}
